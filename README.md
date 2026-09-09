@@ -234,4 +234,4 @@ This repository serves as the official landing page for Turtl. The software is d
 **Get the most recent version of Turtl today!**
 
 ---
-**Last updated:** 2026-09-09 20:34:30 UTC
+**Last updated:** 2026-09-09 22:59:28 UTC
